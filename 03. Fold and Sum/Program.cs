@@ -23,7 +23,6 @@ namespace _03._Fold_and_Sum
 
             int[] mergedLeftAndRightArray = new int[2 * k];
 
-            //With these 2 for cycles we create one array that is merged from leftArray and rightArray.
             int index = 0;
             for (int i = 0; i < k; i++)
             {
