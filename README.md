@@ -1,4 +1,4 @@
-# Test-Repository
+# [SoftUni](https://softuni.bg) [SOFTWARE ENGINEERING](https://softuni.bg/trainings/courses) Programme
 ## I. [Programming Basics With C# - February 2018](https://softuni.bg/trainings/1872/programming-basics-with-csharp-february-2018)
 - - [ ] [01 - First Steps in Coding](https://judge.softuni.bg/Contests/150/First-Steps-in-Coding)
 - - [ ] [02 - Simple Calculations](https://judge.softuni.bg/Contests/151/Simple-Calculations)
@@ -9,13 +9,16 @@
 - - [ ] [07 - Advanced Loops](https://judge.softuni.bg/Contests/156/Advanced-Loops)
 
 ## II. [Tech Module - May 2018](https://softuni.bg/modules/19/tech-module)
-## II.1. [Programming Fundamentals - May 2018](https://softuni.bg/trainings/1939/programming-fundamentals-may-2018)
+### II.1. [Programming Fundamentals - May 2018](https://softuni.bg/trainings/1939/programming-fundamentals-may-2018)
 - - [ ] 000 - Resources
+
 - - [ ] 00 - Course Introduction
+
 - - [ ] 01 - C# Intro and Basic Syntax
   - [ ] Lab
   - [ ] Exercises
   - [ ] More Exercises
+
 - - [ ] 02 - C# Conditional Statements and Loops
   - [ ] Lab
   - [ ] Exercises
@@ -60,3 +63,4 @@
   - [ ] Exercises
   - [ ] More Exercises
 
+### II.2. [Software Technologies - June 2018](https://softuni.bg/trainings/1940/software-technologies-june-2018)
