@@ -1,5 +1,8 @@
 # [SoftUni](https://softuni.bg) [SOFTWARE ENGINEERING](https://softuni.bg/trainings/courses) Programme
-## I. [Programming Basics With C# - February 2018](https://softuni.bg/trainings/1872/programming-basics-with-csharp-february-2018)
+
+## I. [Entry Module - February 2018](https://softuni.bg/modules/2/programming-basics)
+
+### I.1. [Programming Basics With C# - February 2018](https://softuni.bg/trainings/1872/programming-basics-with-csharp-february-2018)
 - - [ ] [01 - First Steps in Coding](https://judge.softuni.bg/Contests/150/First-Steps-in-Coding)
 - - [ ] [02 - Simple Calculations](https://judge.softuni.bg/Contests/151/Simple-Calculations)
 - - [ ] [03 - Simple Conditional Statements](https://judge.softuni.bg/Contests/152/Simple-Conditional-Statements)
