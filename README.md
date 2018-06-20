@@ -12,50 +12,50 @@
 - - [ ] 000 - Resources
 - - [ ] 00 - Course Introduction
 - - [ ] 01 - C# Intro and Basic Syntax
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 - - [ ] 02 - C# Conditional Statements and Loops
-- [ ] Lab
-- [ ] Exercises
+  - [ ] Lab
+  - [ ] Exercises
 
 - - [ ] 03 - Data Types and Variables
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 04 - Methods. Debugging and Troubleshooting Code
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 05 - Arrays
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 06 - Lists
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 07 - Dictionaries, Lambda and LINQ
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 08 - Objects and Classes
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 09 - Strings and Text Processing
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 10 - Regular Expressions (RegEx)
-- [ ] Lab
-- [ ] Exercises
-- [ ] More Exercises
+  - [ ] Lab
+  - [ ] Exercises
+  - [ ] More Exercises
 
