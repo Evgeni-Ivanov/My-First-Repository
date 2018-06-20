@@ -1,12 +1,12 @@
 # Test-Repository
 ## I. [Programming Basics With C# - February 2018](https://softuni.bg/trainings/1872/programming-basics-with-csharp-february-2018)
-- - [] [01 - First Steps in Coding](https://judge.softuni.bg/Contests/150/First-Steps-in-Coding)
-- - [] [02 - Simple Calculations](https://judge.softuni.bg/Contests/151/Simple-Calculations)
-- - [] [03 - Simple Conditional Statements](https://judge.softuni.bg/Contests/152/Simple-Conditional-Statements)
-- - [] [04 - Complex Conditional Statements](https://judge.softuni.bg/Contests/153/Complex-Conditional-Statements)
-- - [] [05 - Simple Loops](https://judge.softuni.bg/Contests/154/Simple-Loops)
-- - [] [06 - Drawing Figures with Loops](https://judge.softuni.bg/Contests/155/Drawing-Figures-with-Loops)
-- - [] [07 - Advanced Loops](https://judge.softuni.bg/Contests/156/Advanced-Loops)
+- - [ ] [01 - First Steps in Coding](https://judge.softuni.bg/Contests/150/First-Steps-in-Coding)
+- - [ ] [02 - Simple Calculations](https://judge.softuni.bg/Contests/151/Simple-Calculations)
+- - [ ] [03 - Simple Conditional Statements](https://judge.softuni.bg/Contests/152/Simple-Conditional-Statements)
+- - [ ] [04 - Complex Conditional Statements](https://judge.softuni.bg/Contests/153/Complex-Conditional-Statements)
+- - [ ] [05 - Simple Loops](https://judge.softuni.bg/Contests/154/Simple-Loops)
+- - [ ] [06 - Drawing Figures with Loops](https://judge.softuni.bg/Contests/155/Drawing-Figures-with-Loops)
+- - [ ] [07 - Advanced Loops](https://judge.softuni.bg/Contests/156/Advanced-Loops)
 
 ## II. Programming Fundamentals
 - - [ ] 000 - Resources
