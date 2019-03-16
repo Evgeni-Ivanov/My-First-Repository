@@ -18,52 +18,52 @@
 - - [ ] 00 - Course Introduction
 
 - - [ ] 01 - C# Intro and Basic Syntax
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 02 - C# Conditional Statements and Loops
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
 
 - - [ ] 03 - Data Types and Variables
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 04 - Methods. Debugging and Troubleshooting Code
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 05 - Arrays
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 06 - Lists
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 07 - Dictionaries, Lambda and LINQ
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 08 - Objects and Classes
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 09 - Strings and Text Processing
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 - - [ ] 10 - Regular Expressions (RegEx)
-  - [ ] Lab
-  - [ ] Exercises
+    - [ ] Lab
+    - [ ] Exercises
   - [ ] More Exercises
 
 ### II.2. [Software Technologies - June 2018](https://softuni.bg/trainings/1940/software-technologies-june-2018)
