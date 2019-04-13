@@ -67,7 +67,7 @@
   - [ ] More Exercises
 
 ### II.2. [Software Technologies - June 2018](https://softuni.bg/trainings/1940/software-technologies-june-2018)
-- - [ ] 000 -
+- - [ ] 000 - Resources
 
 - - [ ] 00 -
 
