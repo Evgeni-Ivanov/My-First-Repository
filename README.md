@@ -71,7 +71,7 @@
 
 - - [ ] 00 - Course Introduction
 
-- - [ ] 01 - HTTP and Database Basics/HTML5 and CSS Basics
+- - [ ] 01 - HTTP and Database Basics
 
 - - [ ] 02 - HTML5 and CSS Basics
 
