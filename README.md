@@ -77,5 +77,9 @@
 
 - - [ ] 03 - HTML5 and CSS - Blog Design
 
+- - [ ] 04 - JavaScript Syntax and Basic Web
+
+
+
 ## III. Professional Modules
 ### I. CSharp Web Developer
