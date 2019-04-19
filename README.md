@@ -81,5 +81,7 @@
 
 - - [ ] 05 - JavaScript ExpressJS Overview
 
+- - [ ] 06 - JavaScript Blog Basic Functionality
+
 ## III. Professional Modules
 ### I. CSharp Web Developer
