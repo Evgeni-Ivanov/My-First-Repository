@@ -83,5 +83,7 @@
 
 - - [ ] 06 - JavaScript Blog Basic Functionality
 
+- - [ ] 07 - PHP Syntax and Basic Web
+
 ## III. Professional Modules
 ### I. CSharp Web Developer
