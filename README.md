@@ -86,6 +86,7 @@
 - - [ ] 07 - PHP Syntax and Basic Web
 
 - - [ ] 08 - PHP MVC and Symfony Overview
+
 - - [ ] 09 - PHP Blog Basic Functionality
 
 ## III. Professional Modules
