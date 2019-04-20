@@ -84,6 +84,7 @@
 - - [ ] 06 - JavaScript Blog Basic Functionality
 
 - - [ ] 07 - PHP Syntax and Basic Web
+- - [ ] 08 - PHP MVC and Symfony Overview
 
 ## III. Professional Modules
 ### I. CSharp Web Developer
