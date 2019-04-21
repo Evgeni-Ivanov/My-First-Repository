@@ -88,6 +88,7 @@
 - - [ ] 08 - PHP MVC and Symfony Overview
 
 - - [ ] 09 - PHP Blog Basic Functionality
+
 - - [ ] 10 - Java Syntax
 
 ## III. Professional Modules
