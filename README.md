@@ -90,6 +90,7 @@
 - - [ ] 09 - PHP Blog Basic Functionality
 
 - - [ ] 10 - Java Syntax
+- - [ ] 11 - Java Basic Web
 
 ## III. Professional Modules
 ### I. CSharp Web Developer
