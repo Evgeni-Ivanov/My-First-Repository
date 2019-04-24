@@ -92,6 +92,7 @@
 - - [ ] 10 - Java Syntax
 
 - - [ ] 11 - Java Basic Web
+
 - - [ ] 12 - Java Blog Basic Functionality
 
 ## III. Professional Modules
