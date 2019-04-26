@@ -96,6 +96,7 @@
 - - [ ] 12 - Java Blog Basic Functionality
 
 - - [ ] 13 - CSharp ASP.NET MVC Overview.NET MVC Overview
+- - [ ] 14 - CSharp Blog Basic Functionality
 
 ## III. Professional Modules
 ### I. CSharp Web Developer
