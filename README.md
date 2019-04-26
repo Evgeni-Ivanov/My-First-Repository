@@ -98,6 +98,7 @@
 - - [ ] 13 - CSharp ASP.NET MVC Overview.NET MVC Overview
 
 - - [ ] 14 - CSharp Blog Basic Functionality
+- - [ ] 15 - Exam Preparation I
 
 ## III. Professional Modules
 ### I. CSharp Web Developer
