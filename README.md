@@ -73,6 +73,7 @@
 
 - - [ ] 01 - HTTP and Database Basics
     - [ ] Lab
+    - [ ] Exercises
 
 - - [ ] 02 - HTML5 and CSS Basics
 
