@@ -77,6 +77,7 @@
 
 - - [ ] 02 - HTML5 and CSS Basics
     - [ ] Lab
+    - [ ] Exercises
 
 - - [ ] 03 - HTML5 and CSS - Blog Design
 
