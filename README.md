@@ -82,6 +82,7 @@
     - [ ] Blog
 
 - - [ ] 04 - JavaScript Syntax and Basic Web
+    - [ ] Lab
 
 - - [ ] 05 - JavaScript ExpressJS Overview
 
