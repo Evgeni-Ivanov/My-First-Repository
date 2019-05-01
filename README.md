@@ -79,6 +79,7 @@
     - [ ] Exercises
 
 - - [ ] 03 - HTML5 and CSS - Blog Design
+    - [ ] Blog
 
 - - [ ] 04 - JavaScript Syntax and Basic Web
 
