@@ -83,6 +83,7 @@
 
 - - [ ] 04 - JavaScript Syntax and Basic Web
     - [ ] Lab
+    - [ ] Exercises
 
 - - [ ] 05 - JavaScript ExpressJS Overview
 
