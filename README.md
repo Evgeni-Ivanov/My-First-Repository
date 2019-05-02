@@ -91,6 +91,9 @@
       - [ ] Exercises
 
 - - [ ] 06 - JavaScript Blog Basic Functionality
+    - [ ] Blog
+      - [ ] Lab
+      - [ ] Exercises
 
 - - [ ] 07 - PHP Syntax and Basic Web
 
