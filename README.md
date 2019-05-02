@@ -86,6 +86,9 @@
     - [ ] Exercises
 
 - - [ ] 05 - JavaScript ExpressJS Overview
+    - [ ] Calculator
+      - [ ] Lab
+      - [ ] Exercises
 
 - - [ ] 06 - JavaScript Blog Basic Functionality
 
