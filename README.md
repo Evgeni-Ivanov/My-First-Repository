@@ -96,6 +96,7 @@
       - [ ] Exercises
 
 - - [ ] 07 - PHP Syntax and Basic Web
+    - [ ] Lab
 
 - - [ ] 08 - PHP MVC and Symfony Overview
 
