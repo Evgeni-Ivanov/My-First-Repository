@@ -100,6 +100,7 @@
     - [ ] Exercises
 
 - - [ ] 08 - PHP MVC and Symfony Overview
+    - [ ] Calculator
 
 - - [ ] 09 - PHP Blog Basic Functionality
 
