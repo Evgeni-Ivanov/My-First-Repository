@@ -105,6 +105,7 @@
       - [ ] Exercises
 
 - - [ ] 09 - PHP Blog Basic Functionality
+    - [ ] Blog
 
 - - [ ] 10 - Java Syntax
 
