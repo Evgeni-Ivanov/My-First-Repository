@@ -107,6 +107,7 @@
 - - [ ] 09 - PHP Blog Basic Functionality
     - [ ] Blog
       - [ ] Lab
+      - [ ] Exercises
 
 - - [ ] 10 - Java Syntax
 
