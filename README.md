@@ -111,6 +111,7 @@
 
 - - [ ] 10 - Java Syntax
     - [ ] Lab
+    - [ ] Exercises
 
 - - [ ] 11 - Java Basic Web
 
