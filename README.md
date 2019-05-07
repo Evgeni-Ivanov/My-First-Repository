@@ -114,6 +114,7 @@
     - [ ] Exercises
 
 - - [ ] 11 - Java Basic Web
+    - [ ] Calculator
 
 - - [ ] 12 - Java Blog Basic Functionality
 
