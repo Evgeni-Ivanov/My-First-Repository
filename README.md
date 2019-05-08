@@ -119,6 +119,7 @@
       - [ ] Exercises
 
 - - [ ] 12 - Java Blog Basic Functionality
+    - [ ] Blog
 
 - - [ ] 13 - CSharp ASP.NET MVC Overview.NET MVC Overview
 
