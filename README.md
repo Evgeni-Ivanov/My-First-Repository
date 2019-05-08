@@ -121,6 +121,7 @@
 - - [ ] 12 - Java Blog Basic Functionality
     - [ ] Blog
       - [ ] Lab
+      - [ ] Exercises
 
 - - [ ] 13 - CSharp ASP.NET MVC Overview.NET MVC Overview
 
