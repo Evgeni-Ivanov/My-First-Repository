@@ -123,7 +123,8 @@
       - [ ] Lab
       - [ ] Exercises
 
-- - [ ] 13 - CSharp ASP.NET MVC Overview.NET MVC Overview
+- - [ ] 13 - CSharp ASP.NET MVC Overview
+    - [ ] Lab
 
 - - [ ] 14 - CSharp Blog Basic Functionality
 
