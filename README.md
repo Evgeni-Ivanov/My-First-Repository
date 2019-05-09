@@ -127,6 +127,7 @@
     - [ ] Lab
     - [ ] Exercises
       - [ ] Calculator
+      - [ ] Book Library
 
 - - [ ] 14 - CSharp Blog Basic Functionality
 
