@@ -130,6 +130,7 @@
       - [ ] Book Library
 
 - - [ ] 14 - CSharp Blog Basic Functionality
+    - [ ] Blog
 
 - - [ ] 15 - Exam Preparation
 
