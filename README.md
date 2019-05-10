@@ -131,6 +131,7 @@
 
 - - [ ] 14 - CSharp Blog Basic Functionality
     - [ ] Blog
+      - [ ] Lab
 
 - - [ ] 15 - Exam Preparation
 
