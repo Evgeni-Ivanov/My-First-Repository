@@ -135,6 +135,8 @@
       - [ ] Exercises
 
 - - [ ] 15 - Exam Preparation
+    - [ ] Exam Preparation 1
+
 
 ## III. Professional Modules
 ### I. CSharp Web Developer
