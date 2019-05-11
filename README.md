@@ -136,6 +136,7 @@
 
 - - [ ] 15 - Exam Preparation
     - [ ] Exam Preparation 1
+    - [ ] Exam Preparation 2
 
 
 ## III. Professional Modules
