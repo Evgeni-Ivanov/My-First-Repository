@@ -12,6 +12,7 @@
 - - [ ] [07 - Advanced Loops](https://judge.softuni.bg/Contests/156/Advanced-Loops)
 
 ## II. [Tech Module - May 2018](https://softuni.bg/modules/19/tech-module)
+
 ### II.1. [Programming Fundamentals - May 2018](https://softuni.bg/trainings/1939/programming-fundamentals-may-2018)
 - - [ ] 000 - Resources
 
@@ -140,4 +141,8 @@
 
 
 ## III. Professional Modules
-### I. CSharp Web Developer
+### I. C# Web Developer
+
+
+### I. C# Fundamentals - January 2019
+
