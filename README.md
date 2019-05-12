@@ -1,5 +1,7 @@
 # [SoftUni](https://softuni.bg) [SOFTWARE ENGINEERING](https://softuni.bg/trainings/courses) Programme
 
+
+
 ## :heavy_check_mark: I. [Entry Module - February 2018](https://softuni.bg/modules/2/programming-basics)
 
 ### :heavy_check_mark: I.1. [Programming Basics With C# - February 2018](https://softuni.bg/trainings/1872/programming-basics-with-csharp-february-2018)
@@ -10,6 +12,7 @@
 - - [ ] [05 - Simple Loops](https://judge.softuni.bg/Contests/154/Simple-Loops)
 - - [ ] [06 - Drawing Figures with Loops](https://judge.softuni.bg/Contests/155/Drawing-Figures-with-Loops)
 - - [ ] [07 - Advanced Loops](https://judge.softuni.bg/Contests/156/Advanced-Loops)
+
 
 ## II. [Tech Module - May 2018](https://softuni.bg/modules/19/tech-module)
 
@@ -141,8 +144,10 @@
 
 
 ## III. Professional Modules
-### I. C# Web Developer
+## III.I. C# Web Developer
 
 
-### I. C# Fundamentals - January 2019
+## III.I.I. C# Fundamentals - January 2019
+
+### III.I.I.1. C# Advanced - January 2019
 
