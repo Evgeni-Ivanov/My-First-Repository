@@ -151,4 +151,4 @@
 
 ### III.I.I.1. [C# Advanced - January 2019](https://softuni.bg/trainings/2243/csharp-advanced-january-2019)
 
-### III.I.I.2. C# OOP - February 2019
+### III.I.I.2. [C# OOP - February 2019](https://softuni.bg/trainings/2244/csharp-oop-february-2019)
