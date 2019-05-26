@@ -24,11 +24,11 @@
 - - [ ] 01 - C# Intro and Basic Syntax
     - [ ] Lab
     - [ ] Exercises
-  - [ ] More Exercises
 
 - - [ ] 02 - C# Conditional Statements and Loops
     - [ ] Lab
     - [ ] Exercises
+  - [ ] More Exercises
 
 - - [ ] 03 - Data Types and Variables
     - [ ] Lab
@@ -38,7 +38,6 @@
 - - [ ] 04 - Methods. Debugging and Troubleshooting Code
     - [ ] Lab
     - [ ] Exercises
-  - [ ] More Exercises
 
 - - [ ] 05 - Arrays
     - [ ] Lab
@@ -48,7 +47,6 @@
 - - [ ] 06 - Lists
     - [ ] Lab
     - [ ] Exercises
-  - [ ] More Exercises
 
 - - [ ] 07 - Dictionaries, Lambda and LINQ
     - [ ] Lab
